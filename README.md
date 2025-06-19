@@ -1,5 +1,7 @@
 # 🔧 Reflow Profile Board Tracking (PERN Stack)
 
+This project was done as a part of my internship at Bharat FIH- a Foxconn technology group which is the largest EMS company group in India.
+
 A full-stack application built using **PostgreSQL, Express.js, React.js, and Node.js (PERN)** for tracking reflow profiling of PCB boards across customers, models, storages, and board types.
 
 ---
